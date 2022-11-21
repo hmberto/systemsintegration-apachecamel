@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<persons>
-	<person user="Humberto">
+<users>
+	<user>
+		<cpf>000.000.000-01</cpf>
 		<firstName>Humberto</firstName>
 		<lastName>Araújo</lastName>
-		<cep>01310-200</cep>
-	</person>
-	<person user="Lucas">
+		<cep>40140-650</cep>
+	</user>
+	<user>
+		<cpf>000.000.000-02</cpf>
 		<firstName>Lucas</firstName>
 		<lastName>Strachan</lastName>
 		<cep>04524-001</cep>
-	</person>
-</persons>
+	</user>
+</users>

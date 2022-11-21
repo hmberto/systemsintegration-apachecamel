@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<persons>
-	<person user="Humberto">
+<users>
+	<user>
+		<cpf>000.000.000-03</cpf>
 		<firstName>João</firstName>
 		<lastName>Costa</lastName>
 		<cep>05716-060</cep>
-	</person>
-	<person user="Lucas">
+	</user>
+	<user>
+		<cpf>000.000.000-04</cpf>
 		<firstName>José</firstName>
 		<lastName>Felix</lastName>
-		<cep>>04707-000</cep>
-	</person>
-	<person user="Lucas">
+		<cep>04707-000</cep>
+	</user>
+	<user>
+		<cpf>000.000.000-05</cpf>
 		<firstName>Ailson</firstName>
 		<lastName>Strachan</lastName>
 		<cep>04036-100</cep>
-	</person>
-</persons>
+	</user>
+</users>
