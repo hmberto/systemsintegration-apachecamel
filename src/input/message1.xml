@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<person user="james">
-  <firstName>James</firstName>
-  <lastName>Strachan</lastName>
-  <city>London</city>
-</person>
+<persons>
+	<person user="Humberto">
+		<firstName>Humberto</firstName>
+		<lastName>Araújo</lastName>
+		<cep>01310-200</cep>
+	</person>
+	<person user="Lucas">
+		<firstName>Lucas</firstName>
+		<lastName>Strachan</lastName>
+		<cep>04524-001</cep>
+	</person>
+</persons>
